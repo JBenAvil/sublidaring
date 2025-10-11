@@ -132,39 +132,51 @@
         /* 4. Footer de Técnicas */
         .technique-footer {
             margin-top: 2rem;
-            text-align: center;
         }
+        
+        /* Centrado de contenido en las columnas de técnicas (SVG y Box) */
+        .technique-footer .col-md-4 {
+            display: flex;
+            flex-direction: column;
+            align-items: center; /* Centra horizontalmente el SVG y el technique-box */
+            margin-bottom: 1.5rem; /* Espacio entre técnicas en móvil */
+        }
+        
+        /* Espacio y tamaño para el icono SVG */
+        .technique-footer svg {
+            margin-bottom: 0.75rem;
+        }
+
         .technique-box {
             position: relative;
             overflow: hidden;
             border-radius: 0.5rem;
             padding: 0;
-            height: 100%;
-        }
-        .technique-box img {
-            width: 100%;
-            height: 100%;
-            object-fit: cover;
+            background-color: rgba(255, 255, 255, 0.1); /* Fondo ligero para la caja */
+            width: 100%; 
+            max-width: 220px; /* Limite de ancho para que no se extienda demasiado en desktop */
+            min-height: 40px; 
             transition: transform 0.3s ease;
         }
-        .technique-box:hover img {
-            transform: scale(1.05);
+        /* Eliminamos .technique-box img ya que el SVG está fuera */
+
+        .technique-box:hover {
+            transform: scale(1.03); /* Efecto hover solo en la caja */
         }
+
         .technique-text {
-            position: absolute;
-            bottom: 0;
-            left: 0;
+            /* Estilo de texto y fondo para el nombre de la técnica */
+            position: static; /* No se superpone a nada */
             width: 100%;
-            background-color: rgba(0, 0, 0, 0.85); 
-            color: var(--text-color);
+            background-color: var(--primary-color); /* Usamos color primario para el fondo del texto */
+            color: var(--dark-bg);
             padding: 0.5rem 0;
             text-align: center;
             font-weight: bold;
             font-size: 0.9rem;
-            border-bottom-left-radius: 0.5rem;
-            border-bottom-right-radius: 0.5rem;
+            border-radius: 0.5rem;
         }
-
+        
         /* 5. Footer Global - Base para Escritorio */
         .global-footer {
             background-color: var(--dark-bg);
