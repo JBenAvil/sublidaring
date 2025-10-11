@@ -1,0 +1,39 @@
+{
+    "quienes-somos": {
+        "title": "Creamos Tus Ideas en Realidad",
+        "description": "En Diseño Personalizado, transformamos tu visión en productos únicos. Desde el concepto inicial hasta la entrega final, utilizamos las mejores técnicas de impresión (DTF, Sublimación y UV) para garantizar calidad y durabilidad en cada artículo. Somos tu socio creativo para regalos, branding empresarial o proyectos personales.",
+        "price": null,
+        "image": "https://placehold.co/500x500/F73859/ffffff?text=LOGO+DE+LA+EMPRESA",
+        "is_presentation": true
+    },
+    "poleras": {
+        "title": "Poleras (T-Shirts) Personalizadas",
+        "description": "Nuestras poleras personalizadas son perfectas para eventos, equipos deportivos o moda individual. Escoge entre algodón, poliéster o mezclas. Ofrecemos diseños vibrantes y de alta resistencia al lavado. ¡Tu estilo, tu mensaje!",
+        "price": "$9.990",
+        "image": "https://placehold.co/500x500/6C757D/ffffff?text=Polera+con+Diseño"
+    },
+    "tazon": {
+        "title": "Tazones (Mugs) Únicos",
+        "description": "Un tazón es el regalo corporativo o personal ideal. Imprimimos fotos, logos o frases con una calidad de color excepcional. Resistentes al microondas y lavavajillas. ¡Empieza tu día con un diseño propio!",
+        "price": "$4.500",
+        "image": "https://placehold.co/500x500/0D6EFD/ffffff?text=Tazón+Personalizado"
+    },
+    "jockey": {
+        "title": "Jockeys (Gorras) con Estilo",
+        "description": "Personaliza gorras con tu logo bordado o estampado en DTF. Perfectas para merchandising o para añadir un toque único a tu vestuario. Amplia variedad de colores y modelos disponibles.",
+        "price": "$7.990",
+        "image": "https://placehold.co/500x500/20C997/ffffff?text=Jockey+con+Logo"
+    },
+    "llaveros": {
+        "title": "Llaveros y Merchandising",
+        "description": "Ideales para promociones o recuerdos. Llaveros resistentes impresos con tecnología UV, garantizando detalles nítidos y colores vivos. Pequeños detalles que marcan una gran diferencia.",
+        "price": "$1.990",
+        "image": "https://placehold.co/500x500/FFC107/000000?text=Llavero+Personalizado"
+    },
+    "otros": {
+        "title": "Otros Productos y Accesorios",
+        "description": "Explora nuestro catálogo de productos variados: mousepads, fundas de teléfono, rompecabezas y más. Si tienes una idea, ¡podemos imprimirla! Consulta por proyectos especiales y volúmenes.",
+        "price": "$5.990",
+        "image": "https://placehold.co/500x500/DC3545/ffffff?text=Otros+Accesorios"
+    }
+}
