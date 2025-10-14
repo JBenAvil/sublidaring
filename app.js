@@ -76,7 +76,7 @@ function renderContent(sectionId, dataStore) {
         <div class="col-lg-7 right-panel">
             <div class="p-3">
                 <h1 class="display-5 fw-bold text-light">${data.title}</h1>
-                <p class="lead text-white-50">${data.description}</p>
+                <p class="lead text-white-50">${data.description.replace(/\n/g, '<br>')}</p>
                 ${data.price ? `<p class="fs-4 text-warning">Precio desde: <strong class="text-white">${data.price}</strong></p>` : ''}
             </div>
             <h3 class="fw-bold text-light"> Nuestras Técnicas Utilizadas</h3>
