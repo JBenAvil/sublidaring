@@ -95,7 +95,7 @@ function renderContent(sectionId, dataStore) {
                 <svg xmlns="http://www.w3.org/2000/svg" height="48px" viewBox="0 -960 960 960" width="48px" fill="#8C1AF6"><path d="M220-120q-24 0-42-18t-18-42v-210h60v210h520v-210h60v210q0 24-18 42t-42 18H220ZM80-450v-60h80v-270q0-24 18-42t42-18h520q24 0 42 18t18 42v270h80v60H80Zm660 270H220h520Z"/></svg>
                     <div class="technique-box shadow-lg">
                         <div class="technique-text">
-                            <strong>IMPRESIÓN DTF</strong>
+                            <strong>VINILO DTF</strong>
                         </div>
                     </div>
                 </div>
@@ -103,7 +103,7 @@ function renderContent(sectionId, dataStore) {
                 <svg xmlns="http://www.w3.org/2000/svg" height="48px" viewBox="0 -960 960 960" width="48px" fill="#75FB4C"><path d="M360-80q-46 0-78-32t-32-78q0-46 32-78t78-32q46 0 78 32t32 78q0 46-32 78t-78 32Zm169-132q-6-46-33.5-81.5T427-346l132-134H226q-29 0-47.5-23T160-556q0-18 9-33t24-24l498-300q14-9 30.5-4.5T746-899q8 14 4.5 30.5T733-844L314-590h420q27 0 46.5 19.5T800-524q0 17-4 32.5T781-465L529-212Z"/></svg>   
                     <div class="technique-box shadow-lg">
                          <div class="technique-text">
-                            <strong>IMPRESIÓN UV</strong>
+                            <strong>VINILO TEXTIL O UV</strong>
                         </div>
                     </div>
                 </div>
