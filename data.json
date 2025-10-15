@@ -10,48 +10,48 @@
         "title": "Poleras Personalizadas",
         "description": "Nuestras poleras personalizadas son perfectas para eventos, equipos deportivos o moda individual. Escoge entre algodón, poliéster o mezclas.\n\n Ofrecemos diseños vibrantes y de alta resistencia al lavado. ¡Tu estilo, tu mensaje!",
         "price": "Desde $8.990",
-        "image": "/static/icon_sublidaring.png"
+        "image": "/static/poleras.png"
     },
     "tazon": {
         "title": "Tazones Personalizados",
         "description": "Un tazón es el regalo corporativo o personal ideal. Imprimimos fotos, logos o frases con una calidad de color excepcional.\nResistentes al microondas y lavavajillas.\n\n¡Empieza tu día con un diseño propio!\n\nTenemos tazones satinados 11oz.\n\nTazones Empavonado 11oz.\n\nTazones Mágico y tazones Glitter 11oz y más.",
         "price": "Desde $4.500",
-        "image": "/static/icon_sublidaring.png"
+        "image": "/static/tazones.png"
     },
     "shoperos": {
         "title": "Shoperos Personalizados",
         "description": "Shopero Empavonado y base de color 17oz y 11oz, ideal para regalos y eventos familiar y amistades con la tecnica de estampado de tu preferencia.",
         "price": "Desde $5.990",
-        "image": "/static/icon_sublidaring.png"
+        "image": "/static/shoperos.png"
     },
     "botella": {
         "title": "Botellas de Aluminio",
         "description": "La botella de aluminio de 600ml es  la mejor opción para hidratarse adonde vaya todo el dia, es práctica y su material de alta calidad y seguridad.",
         "price": "Desde $5.950",
-        "image": "/static/icon_sublidaring.png"
+        "image": "/static/botellas.png"
     },
     "jockey": {
         "title": "Jockeys Personalizados",
         "description": "Personaliza Jockey & Gorras, con tu logo bordado o estampado en DTF, vinilo textil y Sublimación.\nPerfectas para marketing, regalo y para añadir un toque único a tu vestuario.\n\n¡Expresa tu estilo marca la diferencia!.",
         "price": "Desde $7.990",
-        "image": "/static/icon_sublidaring.png"
+        "image": "/static/jockey.png"
     },
     "bolsas": {
         "title": "Bolsas Personalizadas",
         "description": "lleva de la mano tu diseño favorito y ecológico perfecto para tu día a día, tus cotillones y tu emprendimiento.\n\nEstampa tu huella y haz de estas bolsas los celos de todos con elegancia.\n\nVariedad en tamaños.",
         "price": "$1.550",
-        "image": "/static/icon_sublidaring.png"
+        "image": "/static/bolsas.png"
     },
     "mochila": {
         "title": "Mochila Personalizada",
         "description": "Es un accesorio simple ideal para llevar lo justo y necesario cómodo y seguro, con cordones ajustable a la espalda personalízala con tu logo o diseños de preferencia.\n\nVariedad en tamaños y colores.",
         "price": "$1.750",
-        "image": "/static/icon_sublidaring.png"
+        "image": "/static/mochilas.png"
     },
     "llaveros": {
         "title": "Llaveros Personalizados",
         "description": "Llaveros reforzados sublimables con tu mejor diseño con estampado por ambas caras propio para tu marca o negocio ideal para eventos corporativos y obsequios.\n\nHay variedad en diseño y material.",
         "price": "$500",
-        "image": "/static/icon_sublidaring.png"
+        "image": "/static/llaveros.png"
     }
 }
