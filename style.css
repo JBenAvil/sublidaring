@@ -9,24 +9,11 @@
 
         /* 1. Fondo Fijo y General */
         body, html {
+            background-color: #b7f7f7;
             height: 100%;
             margin: 0;
             font-family: 'Inter', sans-serif;
             overflow-x: hidden; /* Evitar scroll horizontal */
-        }
-
-        .fixed-bg {
-            /* Imagen de fondo sin scroll */
-            background: url('/static/fond1.jpg') no-repeat center center fixed;
-            background-size: cover;
-            min-height: 100vh;
-            filter: grayscale(10%) brightness(50%); /* Oscurecer y dar un toque para el contraste */
-            z-index: -1;
-            position: fixed;
-            width: 100%;
-            height: 100%;
-            top: 0;
-            left: 0;
         }
 
         /* 2. Navegación Fija (Vertical - Base para Escritorio) */
